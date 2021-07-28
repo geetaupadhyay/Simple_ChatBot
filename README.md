@@ -16,7 +16,7 @@ Jupyter Notebooks are a spin-off project from the IPython project, which used to
 <h1>Tkinter(if i am presentable today, it's only because of Tkinter.)</h1>
 -->Tkinter is a GUI(Graphical User Interface) method offered by Python and is most commonly used. It is a standard Python interface to the Tk GUI toolkit shipped with Python. Python with tkinter is the fastest and easiest way to create the GUI applications. Creating a GUI using tkinter is an easy task.
 
-<h2>Libraries Used to make me :-</h2>
+<h2>Libraries Used in making me :-</h2>
 <li>Json</li>
 <li>nltk</li>
 <li>pickle</li>
